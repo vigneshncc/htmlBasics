@@ -1,2 +1,2 @@
-# htmlBasics
-The repository will contain basic code's for learning HTML in easy way.
+# Html Basics
+The HTML tutorial contains hundreds of HTML examples.
