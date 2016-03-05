@@ -7,10 +7,10 @@
 		<title>About Me</title>
 	</head>
 	<body>
-		<img src="http://bit.ly/NnVbxt"/>
-		<p>We're Codecademy! We're here to help you learn to code.</p><br/><br/>
+		<img src="https://pbs.twimg.com/profile_images/520644667499507712/BbVTflSP_400x400.png"/>
+		<p>We're here to help you learn to code.</p><br/><br/>
 		<div>
-			<a href="https://www.facebook.com/codecademy">Friend us on <span>Facebook!</span></a>
+			<a href="https://www.facebook.com/">Friend us on <span>Facebook!</span></a>
 		</div>
 	</body>
 </html>
@@ -62,8 +62,8 @@ span {
 		<title>About Me</title>
 	</head>
 	<body>
-		<img src="http://bit.ly/NnVbxt"/>
-		<p>We're Codecademy! We're here to help you learn to code.</p><br/><br/>
+		<img src="https://pbs.twimg.com/profile_images/520644667499507712/BbVTflSP_400x400.png"/>
+		<p>We're here to help you learn to code.</p><br/><br/>
 		<div>
 			
 		</div>
@@ -102,8 +102,8 @@ div {
 		<title>About Me</title>
 	</head>
 	<body>
-		<img src="http://bit.ly/NnVbxt"/>
-		<p>We're Codecademy! We're here to help you learn to code.</p><br/><br/>
+		<img src="https://pbs.twimg.com/profile_images/520644667499507712/BbVTflSP_400x400.png"/>
+		<p>We're here to help you learn to code.</p><br/><br/>
 		<div>
 			
 		</div>
@@ -144,8 +144,8 @@ div {
 		<title>About Me</title>
 	</head>
 	<body>
-		<img src="http://bit.ly/NnVbxt"/>
-		<p>We're Codecademy! We're here to help you learn to code.</p><br/><br/>
+		<img src="https://pbs.twimg.com/profile_images/520644667499507712/BbVTflSP_400x400.png"/>
+		<p>We're here to help you learn to code.</p><br/><br/>
 		<div>
 			
 		</div>
@@ -188,8 +188,8 @@ div {
 		<title>About Me</title>
 	</head>
 	<body>
-		<img src="http://bit.ly/NnVbxt"/>
-		<p>We're Codecademy! We're here to help you learn to code.</p><br/><br/>
+		<img src="https://pbs.twimg.com/profile_images/520644667499507712/BbVTflSP_400x400.png"/>
+		<p>We're here to help you learn to code.</p><br/><br/>
 		<div>
 		    <a href="hhtp:/www.facebook.com">Friends us on <span>Facebook</span>!</a>
 		</div>
@@ -235,10 +235,10 @@ a {
 		<title>About Me</title>
 	</head>
 	<body>
-		<img src="http://bit.ly/NnVbxt"/>
-		<p>We're Codecademy! We're here to help you learn to code.</p><br/><br/>
+		<img src="https://pbs.twimg.com/profile_images/520644667499507712/BbVTflSP_400x400.png"/>
+		<p>We're here to help you learn to code.</p><br/><br/>
 		<div>
-		    <a href="http://www.codecademy.com">Friends us on <span>Facebook</span>!</a>
+		    <a href="http://www.facebook.com">Friends us on <span>Facebook</span>!</a>
 		</div>
 	</body>
 </html>
