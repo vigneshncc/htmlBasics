@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>Table Column and Row Spans</title>
+<style>
+
+body {
+  margin: 3em;
+}
+
+table, th, td {
+  padding: .5em;
+  border: 1px solid #cccccc;
+  border-collapse: collapse;
+}
+
+th, time {
+  white-space:nowrap;
+}
+
+</style>
+</head>
+<body>
+
+
+<h1>Table Column and Row Spans</h1>
+
+<!-- Table -->
+<table>
+<tr>
+	<td colspan="2">2 across</td>
+	<td rowspan="2">2 down</td>
+</tr>
+<tr>
+	<td rowspan="2">2 down</td>
+	<td>Center</td>
+</tr>
+<tr>
+	<td colspan="2">2 across</td>
+</tr>
+</table>
+
+
+</body>
+</html>
